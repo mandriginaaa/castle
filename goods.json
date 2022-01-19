@@ -1,0 +1,68 @@
+{
+    "11292": {
+        "name": "PENGUIN Black",
+        "cost": 250,
+        "description": "Пиво темное нефильтрованное непастеризованное",
+        "image": "img/piv-1.png"
+    },
+    "11294": {
+        "name": "PENGUIN White",
+        "cost": 270,
+        "description": "Пиво светлое нефильтрованное непастеризованно",
+        "image": "img/piv-2.png"
+    },
+    "11295": {
+        "name": "Black Zero Craft",
+        "cost": 220,
+        "description": "Пиво темное нефильтрованное непастеризованное",
+        "image": "img/piv-3.png"
+    },
+    "11296": {
+        "name": "Sub Zero Craft",
+        "cost": 120,
+        "description": "Пиво светлое нефильтрованное непастеризованное",
+        "image": "img/piv-4.png"
+    },
+    "11297": {
+        "name": "DDH IPA GEMSS",
+        "cost": 165,
+        "description": "Пиво светлое нефильтрованное непастеризованное",
+        "image": "img/piv-6.png"
+    },
+    "11298": {
+        "name": "Tornado IPA Craft",
+        "cost": 225,
+        "description": "Пиво светлое нефильтрованное непастеризованное",
+        "image": "img/piv-7.png"
+    },
+    "11299": {
+        "name": "Back to TRU.M.P",
+        "cost": 180,
+        "description": "Пиво светлое нефильтрованное непастеризованное",
+        "image": "img/piv-8.png"
+    },
+    "11300": {
+        "name": "Mandarina Bavaria",
+        "cost": 270,
+        "description": "Пиво светлое нефильтрованное непастеризованное",
+        "image": "img/piv-9.png"
+    },
+    "11301": {
+        "name": "Smoked Lager",
+        "cost": 300,
+        "description": "Пиво светлое нефильтрованное непастеризованное",
+        "image": "img/piv-10.png"
+    },
+    "11302": {
+        "name": "Lager black Craft",
+        "cost": 320,
+        "description": "Пиво свелое нефильтрованное непастеризованное",
+        "image": "img/piv-11.png"
+    },
+    "11303": {
+        "name": "Russian Imperial Stout",
+        "cost": 350,
+        "description": "Пиво темное нефильтрованное непастеризованное",
+        "image": "img/piv-12.png"
+    }
+}
